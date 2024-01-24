@@ -1,0 +1,11 @@
+{
+  "name": "node_games",
+  "version": "1.0.0",
+  "description": "Useful API Rest for the best games ever",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Joaquim",
+  "license": "ISC"
+}
